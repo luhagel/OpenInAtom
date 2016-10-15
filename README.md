@@ -1,5 +1,5 @@
 # OpenInAtom
- Modified Version of [OpenInCode] to use Atom
+ Modified Version of [OpenInCode](https://github.com/sozercan/OpenInCode) to use Atom
 
 :open_file_folder: Finder toolbar app to open current folder in Atom
 
