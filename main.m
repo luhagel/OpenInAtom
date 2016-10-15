@@ -58,7 +58,7 @@ int main(int argc, char *argv[])
 
     NSTask *task = [[NSTask alloc] init];
 
-    task.launchPath = @"/usr/local/bin/code";
+    task.launchPath = @"/usr/local/bin/atom";
     task.arguments = @[@"-n", path];
     
     task.standardOutput = pipe;
